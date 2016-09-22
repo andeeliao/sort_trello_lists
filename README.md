@@ -9,4 +9,5 @@ Sorts trello lists by categories
 python sort_lists.py
 ```
 Copy and paste the id's of boards you want to sort into TO_SORT_BOARD_IDS as strings
+
 3. Run sort_lists.py again
