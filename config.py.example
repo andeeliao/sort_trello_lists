@@ -1,0 +1,4 @@
+TRELLO_APP_TOKEN = "{trello_api_toke}"
+TRELLO_APP_KEY = "{trello_api_key}"
+TRELLO_USERNAME = "{trello_username}"
+TO_SORT_BOARD_IDS = []
